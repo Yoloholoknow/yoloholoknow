@@ -24,6 +24,7 @@ Here are some of the technologies and tools I'm currently working with:
 ### 🌱 I’m currently learning...
 
 **swift**
+
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift" />
 </a>
